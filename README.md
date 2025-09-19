@@ -82,7 +82,8 @@ while True:
   c.send("Not Found".encode())
 ```
 ## OUPUT -RARP
-<img width="1919" height="1138" alt="image" src="https://github.com/user-attachments/assets/32810848-92f3-465f-92cc-3ea74a71e24f" />
+<img width="1919" height="1142" alt="Screenshot 2025-09-19 114333" src="https://github.com/user-attachments/assets/86954124-6596-4c5b-af12-23e500c75461" />
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
